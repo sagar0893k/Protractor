@@ -1,0 +1,15 @@
+{
+  "name": "naukri",
+  "version": "1.0.0",
+  "description": "\"Creating a project on naukri.com\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sagar",
+  "license": "ISC",
+  "dependencies": {
+    "protractor": "^5.4.0",
+    "webdriver": "^5.0.0-alpha.7"
+  }
+}
